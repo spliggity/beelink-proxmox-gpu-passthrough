@@ -2,7 +2,9 @@
 How to passthrough a GPU for various Beelink SER miniPCs
 
 ## The models which I've tested with (WIP)
-Beelink SER5 - AMD Ryzen 5 5500U
+- [x] Beelink SER5 - AMD Ryzen 5 5500U
+- [ ] Beelink SER5 - AMD Ryzen 5 5560U
+- [x] Beelink SER5 - AMD Ryzen 5 5800H
 
 ## The operating systems which I've tested with
 - [x] Arch Linux
